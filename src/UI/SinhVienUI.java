@@ -20,8 +20,8 @@ class StudentManagementGUI extends JFrame {
     /**
 	 * 
 	 */
-	private static final long serialVersionUID = 1L;
-	private JTextField txtId, txtName, txtAddress;
+    private static final long serialVersionUID = 1L;
+    private JTextField txtId, txtName, txtAddress;
     private JTable table;
     private DefaultTableModel tableModel;
 
